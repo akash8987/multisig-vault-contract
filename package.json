@@ -1,0 +1,21 @@
+{
+  "name": "multisig-vault-contract",
+  "version": "1.0.0",
+  "description": "Professional MultiSig Smart Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity",
+    "web3",
+    "blockchain",
+    "multisig",
+    "ethereum"
+  ],
+  "author": "Alex000115",
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.8.20"
+  }
+}
